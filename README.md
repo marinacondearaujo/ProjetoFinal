@@ -6,5 +6,5 @@
 Para executar o programa, utilize o seguinte comando:
 
 ```bash
-streamlit run /caminho/do/projeto/trabalho.py
+streamlit run /caminho/do/projeto/projetofinal.py
 ```
